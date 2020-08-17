@@ -36,7 +36,7 @@ public class FacebookServiceProvider extends AbstractOAuth2ServiceProvider<Faceb
 	
 	private final String apiVersion;
 	
-	public static final String DEFAULT_API_VERSION = "7.0";
+	public static final String DEFAULT_API_VERSION = "8.0";
 	
 	private static final String GRAPH_API_URL_FORMAT = "https://graph.facebook.com/v%s/oauth/access_token";
 	
