@@ -141,6 +141,6 @@ public interface UserOperations {
 											"first_name", "gender", "hometown", "inspirational_people", "installed", "install_type", "languages",
 											"last_name", "link", "locale", "location", "meeting_for", "middle_name", "name", "name_format",
 											"political", "quotes", "payment_pricepoints", "relationship_status", "religion", "significant_other",
-											"sports", "video_upload_limits", "website", "work", "work_locale"};
+											"sports", "video_upload_limits", "website", "work"};
 	
 }
